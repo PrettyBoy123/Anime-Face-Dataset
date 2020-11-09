@@ -14,7 +14,7 @@ months = [str(m).zfill(2) for m in list(range(1, 13))]
 root_dir = './images'
 #shutil.rmtree(root_dir, ignore_errors=True)
 #os.mkdir(root_dir)
-
+#test
 payload = {
     'gage': 'all',
     'gc': 'gc' # important
