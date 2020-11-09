@@ -36,3 +36,6 @@ for y in range(2000, 2020):
         if detect(os.path.join(img_dir, f), './cropped/{}_{}.jpg'.format(ct, y)):
             ct += 1
             print(ct)
+
+# 这是一个测试
+
